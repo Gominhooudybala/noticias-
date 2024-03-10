@@ -67,6 +67,7 @@ body.menu-open::before {
     text-decoration: none;
     color: var(--dark-blue);
     font-size: 1.125rem;
+    line-height: 1.5rem;
 }
 
 .primeira-secao {
